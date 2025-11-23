@@ -1,7 +1,7 @@
-## Hi there 👋
+## Hi I’m Youssef Samir Kamal 👋
 
 
-##I’m Youssef Samir Kamal, a fourth-year BIS (Business Information Systems) student at Future Academy, focusing on the data and AI field.
+## a fourth-year BIS (Business Information Systems) student at Future Academy, focusing on the data and AI field.
 I work with Python, Excel, and basic data handling, and I’m actively learning AI and preparing to specialize in the field in the future.
 
 I can design clean and simple interfaces using HTML & CSS, but I don’t work as a front-end developer — I only use UI design when needed inside projects.
