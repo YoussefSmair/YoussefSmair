@@ -10,21 +10,22 @@
 <table style="border: none; border-collapse: collapse;">
   <tr style="border: none;">
     <td style="vertical-align: top; padding-right: 24px; width: 65%; border: none;">
-      <p style="margin:0;">
-        I’m a fourth-year BIS (Business Information Systems) student at Future Academy, currently focusing on the Data & AI field.<br><br>
-        I work with Python, Excel, and basic data handling, and I'm actively learning AI to build a solid foundation for the future.
+      <p style="margin:0; font-size:30px; line-height:1.6;">
+        I’m a fourth-year BIS (Business Information Systems) student at Future Academy,<br><br> currently focusing on the Data & AI field.<br><br>
+        I work with Python, Excel, and basic data handling,<br><br> and I'm actively learning AI to build a solid foundation for the future.
       </p>
     </td>
     <td style="vertical-align: top; width: 35%; text-align: right; border: none;">
       <img 
         src="https://github.com/user-attachments/assets/a9f5fb1f-925e-459a-b4e2-20622f7c9264"
-        width="320"
+        width="360"
         style="display:block;"
         alt="about image"
       >
     </td>
   </tr>
 </table>
+
 
 
 
