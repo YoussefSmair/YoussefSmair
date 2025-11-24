@@ -1,37 +1,67 @@
-## Hi I’m Youssef Samir Kamal 👋
 
 
-## a fourth-year BIS (Business Information Systems) student at Future Academy, focusing on the data and AI field.
-I work with Python, Excel, and basic data handling, and I’m actively learning AI and preparing to specialize in the field in the future.
-
-I can design clean and simple interfaces using HTML & CSS, but I don’t work as a front-end developer — I only use UI design when needed inside projects.
-I also create visuals using Photoshop and basic video edits using Premiere and CapCut.
-
-I enjoy turning ideas into working prototypes and collaborating in small teams. I’ve co-founded several college projects and contributed to both the idea and the implementation stages.
-
-Overall, I’m building my skills toward becoming an AI professional, and I’m documenting my learning journey through small practical projects.
+![202650321-7f4da361-f98f-4345-8df4-adf352a11322](https://github.com/user-attachments/assets/7e8b0138-0642-4f03-a294-6b3a7637a95b)
 
 
+# 🧑🏻 Hi, I’m Youssef Samir Kamal 👋
+---
+## 🎓 About Me
+
+I’m a fourth-year BIS (Business Information Systems) student at Future Academy, currently focusing on the Data & AI field.
+I work with Python, Excel, and basic data handling, and I’m actively learning AI to build a solid foundation for the future.
+---
+## 🛠️ Skills & Tools
+### 📊 Data & AI(Learning Stage)
+
+- Python (beginner–intermediate)
+
+- Excel (formulas, data organizing, simple tasks)
+
+- Basic data handling & preprocessing
+
+- Currently studying AI fundamentals
+---
+## 🎨 UI & Media
+
+HTML & CSS (only for simple UIs inside my projects — not a frontend developer)
+
+Photoshop (visual design)
+
+Premiere & CapCut (basic video editing)
+---
+## 🏆 My Project Achievement
+
+Participated in a college competition project
+
+I contributed to both the idea and implementation of the project
+
+Our team won 2nd place
+
+Received a financial reward
 
 
-<!--
-**YoussefSmair/YoussefSmair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
+## 🚀 What I Focus On
 
-Here are some ideas to get you started:
+- Turning ideas into simple working prototypes
 
+- Learning through small practical projects
 
+- Improving my skills step-by-step in the Data/AI path
 
+## 📚 Currently Learning
 
+- Python for data
 
+- Excel
 
+- Basics of AI 
 
+- Building small practical projects
+---
+## 🎯 My Goal
 
-
-
-
-
-
-
+To build a strong base in the AI field and become an AI professional in the future.
 
 
 
