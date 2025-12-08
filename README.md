@@ -77,9 +77,8 @@ To build a strong base in the AI field and become an AI professional in the futu
 
 ### 📄 Download My Resume / CV
 
-[Youssef_CV.pdf](https://github.com/user-attachments/files/23700513/Youssef_CV.pdf)
 
-
+[YoussefSamirKamalSalamaResume .pdf](https://github.com/user-attachments/files/24041244/YoussefSamirKamalSalamaResume.pdf)
 
 
 
